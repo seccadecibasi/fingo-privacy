@@ -39,7 +39,8 @@ Fingo ("uygulama") olarak kullanıcılarımızın gizliliğine önem veriyoruz. 
 
 ### İçerik Kuralları ve Moderasyon
 
-- **Fotoğraf kısıtlaması:** Kullanıcılar yalnızca kendilerine ait profil ve galeri fotoğrafı yükleyebilir. Başka kişilere (ör. ilanda aradığınız kişi) veya mekanlara ait fotoğraf yüklemek ve mesajlaşmada fotoğraf göndermek yasaktır; uygulama bu tür yüklemelere teknik olarak izin vermez.
+- **Fotoğraf kısıtlaması:** Kullanıcılar yalnızca kendilerine ait profil ve galeri fotoğrafı yükleyebilir. Başka kişilere (ör. ilanda aradığınız kişi) veya mekanlara ait fotoğraf yüklemek yasaktır; uygulama bu tür yüklemelere teknik olarak izin vermez.
+- **Sohbet içi tek seferlik fotoğraf:** Karşılıklı eşleşme gerçekleştikten sonra, sohbet ekranından tek seferlik görüntülenmek üzere fotoğraf gönderilebilir. Gönderilen fotoğraf, alıcı tarafından açılıp görüntülendiği anda sunucularımızdan kalıcı olarak silinir ve bir daha kimse tarafından görüntülenemez. Ekran görüntüsü alınması teknik olarak engellenmez; ancak bir kullanıcı ekran görüntüsü aldığında karşı taraf bilgilendirilir.
 - **İlan sınırları:** Bir kullanıcı bir günde en fazla 3 ilan açabilir ve aynı anda en fazla 10 aktif ilana sahip olabilir. Bu sınırlar spam ve kötüye kullanımı önlemek için sunucu tarafında uygulanır.
 - **Şikayet mekanizması:** Her kullanıcı, uygunsuz bulduğu bir ilanı gerekçe seçerek bildirebilir. Farklı kullanıcılardan gelen bildirimler eşiği aştığında ilan otomatik olarak gizlenir ve sahibine geçici ilan verme kısıtlaması uygulanır. Bildirimler kötüye kullanıma karşı saatlik ve günlük kotalarla sınırlandırılmıştır.
 - İlan başlığı ve açıklamaları; hakaret, kişisel bilgi paylaşımı ve benzeri ihlallere karşı otomatik olarak denetlenir.
