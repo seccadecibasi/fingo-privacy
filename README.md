@@ -1,6 +1,6 @@
 [English version below ↓ / İngilizce sürüm aşağıda](#privacy-policy--fingo)
 
-📋 **Neden bu kurallar var?** Sade dilde 10 maddelik açıklama için: [Gizlilik ve Güvenlik İlkelerimiz](SAFETY_PRINCIPLES.md)
+📋 **Neden bu kurallar var?** Sade dilde 10 maddelik açıklama için: [Privacy & Safety by Design](SAFETY_PRINCIPLES.md)
 
 # Fingo Gizlilik Politikası
 
@@ -123,7 +123,7 @@ Gizlilik ile ilgili sorularınız için:
 ---
 ---
 
-📋 **Why do these rules exist?** Plain-language explanation in 10 points: [Privacy & Safety Principles](SAFETY_PRINCIPLES.md)
+📋 **Why do these rules exist?** Plain-language explanation in 10 points: [Privacy & Safety by Design](SAFETY_PRINCIPLES.md)
 
 # Privacy Policy — Fingo
 

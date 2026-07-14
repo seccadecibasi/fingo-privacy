@@ -1,12 +1,16 @@
-[English version below ↓ / İngilizce sürüm aşağıda](#privacy--safety-principles--fingo)
+[English version below ↓ / İngilizce sürüm aşağıda](#privacy--safety-by-design--fingo)
 
-# Fingo — Gizlilik ve Güvenlik İlkelerimiz
+# Fingo — Privacy & Safety by Design
 
 **Son güncelleme:** Temmuz 2026
 
-Fingo, **mekâna bağlı anonim bir ilan panosudur** — bir tanışma/flört uygulaması değildir. Kaybettiğin bir eşyayı, kaçırdığın bir evcil hayvanı ya da tanışamadığın birini, o anı yaşadığın mekâna bağlı bir ilanla arayabilirsin. Bu sayfa, uygulamanın temel tasarım kararlarının **neden** böyle olduğunu, sade bir dille açıklıyor. Ayrıntılı, hukuki dille yazılmış tam metin için [Gizlilik Politikası](README.md)'na bakabilirsiniz.
+Fingo, **mekâna bağlı anonim bir ilan panosudur** — Fingo'nun temel amacı bir flört veya eşleşme platformu olmak değildir. Kaybettiğin bir eşyayı, kaçırdığın bir evcil hayvanı ya da tanışamadığın birini, o anı yaşadığın mekâna bağlı bir ilanla arayabilirsin. Bu sayfa, uygulamanın temel tasarım kararlarının **neden** böyle olduğunu, sade bir dille açıklıyor. Ayrıntılı, hukuki dille yazılmış tam metin için [Gizlilik Politikası](README.md)'na bakabilirsiniz.
 
 Bu ilkeler; Türkiye'de 6698 sayılı KVKK, Avrupa Birliği'nde GDPR ve Amerika Birleşik Devletleri'nde CCPA/CPRA'nın ortak temel prensipleriyle (veri minimizasyonu, amaç sınırlaması, varsayılan olarak gizlilik — "privacy by default") uyumlu olacak şekilde tasarlanmıştır.
+
+## Neden böyle tasarlandı?
+
+Fingo geliştirilirken temel hedef yalnızca kullanıcı gizliliğini korumak değil, aynı zamanda uygulamayı kullanmayan kişilerin gizliliğini de korumaktı. Bu nedenle uygulama; veri minimizasyonu, varsayılan olarak gizlilik (privacy by default), amaç sınırlaması ve kötüye kullanımı önlemeye yönelik teknik kontroller esas alınarak tasarlanmıştır.
 
 ---
 
@@ -24,11 +28,11 @@ Bu ilkeler; Türkiye'de 6698 sayılı KVKK, Avrupa Birliği'nde GDPR ve Amerika 
 
 ### 4) Neden isim, telefon numarası veya sosyal medya hesabı paylaşımı yasak?
 
-Çünkü bu bilgiler, anonimlik korumasını tamamen anlamsız kılan doğrudan kimlik teşhis verileridir. İlan gönderilirken metin, 60'tan fazla meslek/unvan kelimesi, Türkçe meslek ekleri (-cı/-ci/-çı/-çi gibi) ve iletişim bilgisi kalıpları (telefon, Instagram, WhatsApp vb.) için otomatik olarak taranır; bu tür içerik tespit edilirse ilan **hiçbir bypass seçeneği olmadan** gönderilemez — kullanıcının içeriği düzenlemesi zorunludur.
+Çünkü bu bilgiler, anonimlik korumasını tamamen anlamsız kılan doğrudan kimlik teşhis verileridir. İlan gönderilirken metin, kimlik tespitine yardımcı olabilecek ifadeler ve iletişim bilgileri için otomatik filtrelerden geçirilir; bu tür içerik tespit edilirse ilan **hiçbir bypass seçeneği olmadan** gönderilemez — kullanıcının içeriği düzenlemesi zorunludur.
 
 ### 5) Neden tek taraflı erişim yok, karşılıklı onay ("bağlantı") şart?
 
-Çünkü kimliği açığa çıkarma kararı, tek bir kullanıcının değil, **her iki tarafın da rızasına** bağlı olmalıdır. Bir kullanıcı "bu doğru kişi/durum" deyip onay verse bile, karşı taraf da aynı onayı vermeden hiçbir profil bilgisi veya fotoğraf açılmaz. Bu, GDPR ve KVKK'daki açık rıza (explicit consent) ilkesinin iki taraflı bir mekanizmaya dönüştürülmüş hâlidir.
+Çünkü kimliği açığa çıkarma kararı, tek bir kullanıcının değil, **her iki tarafın da rızasına** bağlı olmalıdır. Bir kullanıcı "bu doğru kişi/durum" deyip onay verse bile, karşı taraf da aynı onayı vermeden hiçbir profil bilgisi veya fotoğraf açılmaz. Bu tasarım, kimlik bilgilerinin yalnızca her iki tarafın da bilinçli tercihiyle görünür hâle gelmesini sağlayan "privacy by design" yaklaşımının bir parçasıdır.
 
 ### 6) Neden aynı mekana ilan verme sıklığı sınırlanıyor?
 
@@ -40,15 +44,21 @@ Bu ilkeler; Türkiye'de 6698 sayılı KVKK, Avrupa Birliği'nde GDPR ve Amerika 
 
 ### 8) Fingo bir tanışma/flört uygulaması mı?
 
-Hayır. Fingo, **mekâna bağlı anonim bir ilan panosudur** — insan aramanın yanı sıra kaybolan evcil hayvan, kaybedilen eşya gibi günlük hayatta sık karşılaşılan durumlar için de aynı mekanizmayla kullanılır (ör. taksi durağında düşürülen bir cüzdan, parkta kaçan bir köpek). İlan verirken bir kategori (Kişi / Evcil Hayvan / Kayıp Eşya / Diğer) seçilir. Romantik/insan arama, uygulamanın sunduğu kullanım senaryolarından yalnızca biridir, merkezinde değildir.
+Fingo'nun temel amacı bir flört veya eşleşme platformu olmak değildir — **mekâna bağlı anonim bir ilan panosudur**. İnsan aramanın yanı sıra kaybolan evcil hayvan, kaybedilen eşya gibi günlük hayatta sık karşılaşılan durumlar için de aynı mekanizmayla kullanılır (ör. taksi durağında düşürülen bir cüzdan, parkta kaçan bir köpek). İlan verirken bir kategori (Kişi / Evcil Hayvan / Kayıp Eşya / Diğer) seçilir. Romantik/insan arama, uygulamanın sunduğu kullanım senaryolarından biridir — iki kullanıcı bu yolla gerçekten tanışabilir, ama bu uygulamanın merkezî amacı değil, ortaya çıkabilecek sonuçlardan sadece biridir.
 
 ### 9) Verileriniz üzerinde hangi haklara sahipsiniz?
 
-KVKK, GDPR ve CCPA/CPRA'nın ortak sunduğu haklar Fingo'da da geçerlidir: verilerinize erişim talep etme, yanlış verinin düzeltilmesini isteme, işlemeye itiraz etme ve hesabınızı — dolayısıyla tüm kişisel verilerinizi — kalıcı olarak sildirme. Silme talebi uygulama içinden veya e-posta ile yapılabilir, 30 günlük bir bekleme süresinin ardından kalıcı olarak uygulanır. Ayrıntılar için [Gizlilik Politikası, Bölüm 5/7](README.md#5-haklarınız).
+Fingo; yürürlükteki veri koruma düzenlemelerinin (KVKK, GDPR, CCPA/CPRA gibi) öngördüğü kullanıcı haklarını, uygulanabildiği ölçüde desteklemeyi hedefler: verilerinize erişim talep etme, yanlış verinin düzeltilmesini isteme, işlemeye itiraz etme ve hesabınızı — dolayısıyla tüm kişisel verilerinizi — kalıcı olarak sildirme. Silme talebi uygulama içinden veya e-posta ile yapılabilir, 30 günlük bir bekleme süresinin ardından kalıcı olarak uygulanır. Ayrıntılar için [Gizlilik Politikası, Bölüm 5/7](README.md#5-haklarınız).
 
 ### 10) Kötüye kullanım (stalking, taciz) şüphesi olursa ne oluyor?
 
-Fingo, bir kişiyi rızası dışında bulmak, izlemek veya taciz etmek için **tasarlanmamıştır** ve kullanım koşulları bunu açıkça yasaklar. Yukarıdaki teknik önlemler (anonimlik, karşılıklı onay, aynı-mekan sınırları, kimlik-tespit-eden-içerik engeli, moderasyon) bu tür kullanımı zorlaştırmak için birlikte çalışır. Şüpheli bir kullanım fark edilirse hesap askıya alınabilir; gerektiğinde ve yalnızca yetkili bir yasal makamın (mahkeme, savcılık, kolluk kuvveti) geçerli bir talebi olması hâlinde ilgili veri paylaşılır — bu dışında verileriniz hiçbir üçüncü tarafla paylaşılmaz.
+Fingo, bir kişinin rızası dışında izlenmesi, taciz edilmesi veya sistematik olarak takip edilmesi amacıyla kullanılmak üzere **tasarlanmamıştır** ve kullanım koşulları bunu açıkça yasaklar. Teknik sınırlamalar ve içerik politikaları (anonimlik, karşılıklı onay, aynı-mekan sınırları, kimlik-tespit-eden-içerik engeli, moderasyon) bu tür kötüye kullanımları önlemeyi amaçlar. Şüpheli bir kullanım fark edilirse hesap askıya alınabilir; gerektiğinde ve yalnızca yetkili bir yasal makamın (mahkeme, savcılık, kolluk kuvveti) geçerli bir talebi olması hâlinde ilgili veri paylaşılır — bu dışında verileriniz hiçbir üçüncü tarafla paylaşılmaz.
+
+---
+
+## Privacy by Design
+
+Fingo'da gizlilik sonradan eklenmiş bir özellik değil, uygulamanın ilk tasarım kararlarından biridir. Kimliklerin gizlenmesi, karşılıklı eşleşme zorunluluğu, otomatik silinen ilanlar, içerik filtreleri ve sunucu tarafında uygulanan erişim kontrolleri bu yaklaşımın parçalarıdır.
 
 ---
 
@@ -57,13 +67,17 @@ Fingo, bir kişiyi rızası dışında bulmak, izlemek veya taciz etmek için **
 ---
 ---
 
-# Privacy & Safety Principles — Fingo
+# Privacy & Safety by Design — Fingo
 
 **Last updated:** July 2026
 
-Fingo is a **location-bound, anonymous bulletin board** — not a dating or matchmaking app. You can post about someone you saw, a pet you lost, or an item you dropped, tied to the real venue where it happened. This page explains, in plain language, **why** the app's core design decisions are what they are. For the full legal text, see the [Privacy Policy](README.md).
+Fingo is a **location-bound, anonymous bulletin board** — its core purpose is not to be a dating or matchmaking platform. You can post about someone you saw, a pet you lost, or an item you dropped, tied to the real venue where it happened. This page explains, in plain language, **why** the app's core design decisions are what they are. For the full legal text, see the [Privacy Policy](README.md).
 
 These principles are designed to align with the shared core ideas behind Turkey's KVKK, the EU's GDPR, and the US CCPA/CPRA — data minimization, purpose limitation, and privacy by default.
+
+## Why was it designed this way?
+
+While building Fingo, the goal was not only to protect the privacy of our users, but also the privacy of people who don't use the app at all. That's why the app is built around data minimization, privacy by default, purpose limitation, and technical controls aimed at preventing misuse.
 
 ---
 
@@ -81,11 +95,11 @@ Because data minimization and storage limitation are core data-protection princi
 
 ### 4) Why are names, phone numbers, and social media handles banned from posts?
 
-Because these are direct identifying data points that would defeat the whole point of the anonymity protection. Post text is automatically scanned against 60+ occupation/title keywords, Turkish occupation suffixes, and contact-info patterns (phone, Instagram, WhatsApp, etc.); if detected, the post **cannot be submitted at all, with no bypass** — the user must edit the content first.
+Because these are direct identifying data points that would defeat the whole point of the anonymity protection. Post text is automatically run through filters for language that could help identify someone and for contact-info patterns; if detected, the post **cannot be submitted at all, with no bypass** — the user must edit the content first.
 
 ### 5) Why is mutual confirmation ("connection") required instead of one-sided access?
 
-Because the decision to reveal identity should never rest with just one person — it requires **both** parties' consent. Even if one user says "yes, this is them," nothing is revealed until the other person gives the same confirmation. This is the two-sided implementation of the explicit-consent principle found in both GDPR and KVKK.
+Because the decision to reveal identity should never rest with just one person — it requires **both** parties' consent. Even if one user says "yes, this is them," nothing is revealed until the other person gives the same confirmation. This design is part of a "privacy by design" approach, where identifying information only becomes visible through a deliberate choice made by both sides.
 
 ### 6) Why is posting about the same venue rate-limited?
 
@@ -97,15 +111,21 @@ Because any user-generated-content platform carries a risk of misuse, and reduci
 
 ### 8) Is Fingo a dating app?
 
-No. Fingo is a **location-bound, anonymous bulletin board** — alongside looking for a person, the same mechanism is used every day for lost pets and lost items (a wallet dropped at a taxi stand, a dog that escaped in a park). When creating a post, you choose a category (Person / Pet / Lost Item / Other). Finding a person is one of several use cases, not the app's center of gravity.
+Fingo's core purpose is not to be a dating or matchmaking platform — it's a **location-bound, anonymous bulletin board**. Alongside looking for a person, the same mechanism is used every day for lost pets and lost items (a wallet dropped at a taxi stand, a dog that escaped in a park). When creating a post, you choose a category (Person / Pet / Lost Item / Other). Finding a person is one of the possible use cases — two people can genuinely meet through it — but it isn't the app's central purpose, just one of the outcomes that can happen.
 
 ### 9) What rights do you have over your data?
 
-The rights shared across KVKK, GDPR, and CCPA/CPRA all apply on Fingo: request access to your data, request correction of inaccurate data, object to processing, and permanently delete your account — and with it, all your personal data. Deletion can be requested in-app or by email, and takes effect after a 30-day grace period. See [Privacy Policy, Section 7](README.md#7-your-rights-gdpr--kvkk) for details.
+Fingo aims to support the user rights set out by applicable data protection regulations (such as KVKK, GDPR, and CCPA/CPRA), to the extent they apply: requesting access to your data, requesting correction of inaccurate data, objecting to processing, and permanently deleting your account — and with it, all your personal data. Deletion can be requested in-app or by email, and takes effect after a 30-day grace period. See [Privacy Policy, Section 7](README.md#7-your-rights-gdpr--kvkk) for details.
 
 ### 10) What happens if misuse (stalking, harassment) is suspected?
 
-Fingo is **not designed** to find, track, or harass someone against their will, and this is explicitly prohibited by our terms. The technical measures above (anonymity, mutual consent, same-venue limits, the identifying-content block, moderation) work together to make this kind of misuse harder. If suspicious use is detected, the account may be suspended; data is shared with a third party only when a competent legal authority (a court, prosecutor, or law enforcement agency) makes a valid request — otherwise, your data is never shared with anyone outside our infrastructure providers.
+Fingo is **not designed** to be used for monitoring, harassing, or systematically tracking someone without their consent, and this is explicitly prohibited by our terms. Technical limitations and content policies (anonymity, mutual consent, same-venue limits, the identifying-content block, moderation) are aimed at preventing this kind of misuse. If suspicious use is detected, the account may be suspended; data is shared with a third party only when a competent legal authority (a court, prosecutor, or law enforcement agency) makes a valid request — otherwise, your data is never shared with anyone outside our infrastructure providers.
+
+---
+
+## Privacy by Design
+
+Privacy on Fingo isn't a feature bolted on afterward — it's one of the app's earliest design decisions. Hidden identities, mandatory mutual matching, self-expiring posts, content filters, and server-side access controls are all part of that approach.
 
 ---
 
