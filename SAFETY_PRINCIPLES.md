@@ -4,7 +4,7 @@
 
 **Son güncelleme:** Temmuz 2026
 
-Fingo, **mekâna bağlı anonim bir ilan panosudur** — Fingo'nun temel amacı bir flört veya eşleşme platformu olmak değildir. Kaybettiğin bir eşyayı, kaçırdığın bir evcil hayvanı ya da tanışamadığın birini, o anı yaşadığın mekâna bağlı bir ilanla arayabilirsin. Bu sayfa, uygulamanın temel tasarım kararlarının **neden** böyle olduğunu, sade bir dille açıklıyor. Ayrıntılı, hukuki dille yazılmış tam metin için [Gizlilik Politikası](README.md)'na bakabilirsiniz.
+Fingo, **mekâna bağlı dijital anonim bir ilan panosudur** — Fingo'nun temel amacı bir flört veya eşleşme platformu olmak değildir. Kaybettiğin bir eşyayı, kaçırdığın bir evcil hayvanı ya da tanışamadığın birini, o anı yaşadığın mekâna bağlı bir ilanla arayabilirsin. Bu sayfa, uygulamanın temel tasarım kararlarının **neden** böyle olduğunu, sade bir dille açıklıyor. Ayrıntılı, hukuki dille yazılmış tam metin için [Gizlilik Politikası](README.md)'na bakabilirsiniz.
 
 Bu ilkeler; Türkiye'de 6698 sayılı KVKK, Avrupa Birliği'nde GDPR ve Amerika Birleşik Devletleri'nde CCPA/CPRA'nın ortak temel prensipleriyle (veri minimizasyonu, amaç sınırlaması, varsayılan olarak gizlilik — "privacy by default") uyumlu olacak şekilde tasarlanmıştır.
 
@@ -44,7 +44,7 @@ Fingo geliştirilirken temel hedef yalnızca kullanıcı gizliliğini korumak de
 
 ### 8) Fingo bir tanışma/flört uygulaması mı?
 
-Fingo'nun temel amacı bir flört veya eşleşme platformu olmak değildir — **mekâna bağlı anonim bir ilan panosudur**. İnsan aramanın yanı sıra kaybolan evcil hayvan, kaybedilen eşya gibi günlük hayatta sık karşılaşılan durumlar için de aynı mekanizmayla kullanılır (ör. taksi durağında düşürülen bir cüzdan, parkta kaçan bir köpek). İlan verirken bir kategori (Kişi / Evcil Hayvan / Kayıp Eşya / Diğer) seçilir. Romantik/insan arama, uygulamanın sunduğu kullanım senaryolarından biridir — iki kullanıcı bu yolla gerçekten tanışabilir, ama bu uygulamanın merkezî amacı değil, ortaya çıkabilecek sonuçlardan sadece biridir.
+Fingo'nun temel amacı bir flört veya eşleşme platformu olmak değildir — **mekâna bağlı dijital anonim bir ilan panosudur**. İnsan aramanın yanı sıra kaybolan evcil hayvan, kaybedilen eşya gibi günlük hayatta sık karşılaşılan durumlar için de aynı mekanizmayla kullanılır (ör. taksi durağında düşürülen bir cüzdan, parkta kaçan bir köpek). İlan verirken bir kategori (Kişi / Evcil Hayvan / Kayıp Eşya / Diğer) seçilir. Romantik/insan arama, uygulamanın sunduğu kullanım senaryolarından biridir — iki kullanıcı bu yolla gerçekten tanışabilir, ama bu uygulamanın merkezî amacı değil, ortaya çıkabilecek sonuçlardan sadece biridir.
 
 ### 9) Verileriniz üzerinde hangi haklara sahipsiniz?
 
@@ -71,7 +71,7 @@ Fingo'da gizlilik sonradan eklenmiş bir özellik değil, uygulamanın ilk tasar
 
 **Last updated:** July 2026
 
-Fingo is a **location-bound, anonymous bulletin board** — its core purpose is not to be a dating or matchmaking platform. You can post about someone you saw, a pet you lost, or an item you dropped, tied to the real venue where it happened. This page explains, in plain language, **why** the app's core design decisions are what they are. For the full legal text, see the [Privacy Policy](README.md).
+Fingo is a **location-bound, digital, anonymous bulletin board** — its core purpose is not to be a dating or matchmaking platform. You can post about someone you saw, a pet you lost, or an item you dropped, tied to the real venue where it happened. This page explains, in plain language, **why** the app's core design decisions are what they are. For the full legal text, see the [Privacy Policy](README.md).
 
 These principles are designed to align with the shared core ideas behind Turkey's KVKK, the EU's GDPR, and the US CCPA/CPRA — data minimization, purpose limitation, and privacy by default.
 
@@ -111,7 +111,7 @@ Because any user-generated-content platform carries a risk of misuse, and reduci
 
 ### 8) Is Fingo a dating app?
 
-Fingo's core purpose is not to be a dating or matchmaking platform — it's a **location-bound, anonymous bulletin board**. Alongside looking for a person, the same mechanism is used every day for lost pets and lost items (a wallet dropped at a taxi stand, a dog that escaped in a park). When creating a post, you choose a category (Person / Pet / Lost Item / Other). Finding a person is one of the possible use cases — two people can genuinely meet through it — but it isn't the app's central purpose, just one of the outcomes that can happen.
+Fingo's core purpose is not to be a dating or matchmaking platform — it's a **location-bound, digital, anonymous bulletin board**. Alongside looking for a person, the same mechanism is used every day for lost pets and lost items (a wallet dropped at a taxi stand, a dog that escaped in a park). When creating a post, you choose a category (Person / Pet / Lost Item / Other). Finding a person is one of the possible use cases — two people can genuinely meet through it — but it isn't the app's central purpose, just one of the outcomes that can happen.
 
 ### 9) What rights do you have over your data?
 
