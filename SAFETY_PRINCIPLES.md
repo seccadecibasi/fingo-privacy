@@ -58,7 +58,7 @@ Fingo, bir kişinin rızası dışında izlenmesi, taciz edilmesi veya sistemati
 
 ## Privacy by Design
 
-Fingo'da gizlilik sonradan eklenmiş bir özellik değil, uygulamanın ilk tasarım kararlarından biridir. Kimliklerin gizlenmesi, karşılıklı eşleşme zorunluluğu, otomatik silinen ilanlar, içerik filtreleri ve sunucu tarafında uygulanan erişim kontrolleri bu yaklaşımın parçalarıdır.
+Fingo'da gizlilik sonradan eklenmiş bir özellik değil, uygulamanın ilk tasarım kararlarından biridir. Kimliklerin gizlenmesi, karşılıklı eşleşme zorunluluğu, ilanların sınırlı süreyle (24 saat) tutulup kendiliğinden silinmesi, gönderim anında uygulanan içerik filtreleri ve sunucu tarafında uygulanan erişim kontrolleri bu yaklaşımın parçalarıdır.
 
 ---
 
@@ -125,7 +125,7 @@ Fingo is **not designed** to be used for monitoring, harassing, or systematicall
 
 ## Privacy by Design
 
-Privacy on Fingo isn't a feature bolted on afterward — it's one of the app's earliest design decisions. Hidden identities, mandatory mutual matching, self-expiring posts, content filters, and server-side access controls are all part of that approach.
+Privacy on Fingo isn't a feature bolted on afterward — it's one of the app's earliest design decisions. Hidden identities, mandatory mutual matching, posts that are kept for a limited time (24 hours) and then expire on their own, content filters applied at submission time, and server-side access controls are all part of that approach.
 
 ---
 
